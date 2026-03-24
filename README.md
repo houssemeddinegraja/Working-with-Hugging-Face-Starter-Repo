@@ -1,0 +1,1 @@
+This repository has been designed to regroup summaries of useful information on how to work with Hugging Face on Python, starting with introdutory notebooks and progressing inchallah deeper and deeper.
